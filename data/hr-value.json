@@ -1,0 +1,114 @@
+[
+  {
+    "name": "Um",
+    "hr_rate": 0.05
+  },
+  {
+    "name": "Mal",
+    "hr_rate": 0.1
+  },
+  {
+    "name": "Ist",
+    "hr_rate": 0.15
+  },
+  {
+    "name": "Gul",
+    "hr_rate": 0.25
+  },
+  {
+    "name": "Vex",
+    "hr_rate": 0.5
+  },
+  {
+    "name": "Ohm",
+    "hr_rate": 0.75
+  },
+  {
+    "name": "Lo",
+    "hr_rate": 1.0
+  },
+  {
+    "name": "Sur",
+    "hr_rate": 1.5
+  },
+  {
+    "name": "Ber",
+    "hr_rate": 3.0
+  },
+  {
+    "name": "Jah",
+    "hr_rate": 1.5
+  },
+  {
+    "name": "Cham",
+    "hr_rate": 2.25
+  },
+  {
+    "name": "Zod",
+    "hr_rate": 4.5
+  },
+  {
+    "name": "Key Set",
+    "hr_rate": 0.6
+  },
+  {
+    "name": "Key of Hate",
+    "hr_rate": 0.05
+  },
+  {
+    "name": "Key of Destruction",
+    "hr_rate": 0.05
+  },
+  {
+    "name": "Key of Terror",
+    "hr_rate": 0.05
+  },
+  {
+    "name": "Pure Demonic Essence",
+    "hr_rate": 0.02
+  },
+  {
+    "name": "Prime Evil Soul",
+    "hr_rate": 0.35
+  },
+  {
+    "name": "Blacksoul Stone",
+    "hr_rate": 0.25
+  },
+  {
+    "name": "Trangoul's Jawbone",
+    "hr_rate": 0.02
+  },
+  {
+    "name": "Splinter of the Void",
+    "hr_rate": 0.2
+  },
+  {
+    "name": "Hellfire Ashes",
+    "hr_rate": 0.5
+  },
+  {
+    "name": "Worldstone Shard",
+    "hr_rate": 0.01
+  },
+  {
+    "name": "Larzuk's Puzzlebox",
+    "hr_rate": 0.5
+  },
+  {
+    "name": "Demonic Insignia",
+    "hr_rate": 0.2
+  },
+  {
+    "name": "Talisman of Transgression",
+    "hr_rate": 0.02
+  },
+  {
+    "name": "Flesh of Malic",
+    "hr_rate": 0.02
+  },
+  {
+    "name": "Tainted Worldstone Shard",
+    "hr_rate": 1.25
+  }
+]
