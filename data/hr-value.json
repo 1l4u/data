@@ -21,7 +21,7 @@
   },
   {
     "name": "Ohm",
-    "hr_rate": 0.85
+    "hr_rate": 0.75
   },
   {
     "name": "Lo",
@@ -41,11 +41,11 @@
   },
   {
     "name": "Cham",
-    "hr_rate": 2.5
+    "hr_rate": 3
   },
   {
     "name": "Zod",
-    "hr_rate": 5
+    "hr_rate": 6
   },
   {
     "name": "Key Set",

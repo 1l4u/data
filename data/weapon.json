@@ -3072,7 +3072,7 @@
     "levelreq": "57"
   },
   {
-    "name": "Colossal Sword",
+    "name": "Colossus Sword",
     "code": "7fb",
     "min": "33",
     "max": "88",
@@ -3084,7 +3084,7 @@
     "levelreq": "60"
   },
   {
-    "name": "Colossal Sword (2hand)",
+    "name": "Colossus Sword (2hand)",
     "code": "7fb",
     "min": "76",
     "max": "151",
