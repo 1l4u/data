@@ -2030,7 +2030,8 @@
 			"+[2-3] to Strafe (Amazon Only) (Bows Only)",
 			"+[2-3] to Power Strike (Amazon Only) (Spears Only)",
 			"+4 to Mana after each Kill"
-		]
+		],
+		"level": "45"
 	},
 	{
 		"name": "Epiphany - Lo Ith Lo Ist",
@@ -2048,7 +2049,8 @@
 			"Poison Resist +[40-55]%",
 			"+15% Damage Taken Gained as Mana when Hit",
 			"+30% Better Chance of Getting Magic Item"
-		]
+		],
+		"level": "59"
 	},
 	{
 		"name": "Echo - Sol Dol",
@@ -2063,7 +2065,8 @@
 			"+9 to Minimum Damage",
 			"50% Bonus to Attack Rating",
 			"+2 Life After Each Kill"
-		]
+		],
+		"level": "31"
 	},
 	{
 		"name": "Ancient's Foresight - Ral Thul",
@@ -2076,7 +2079,8 @@
 			"Regenerate Mana 20%",
 			"Cold Resist +[5-15]%",
 			"Fire Resist +[5-15]%"
-		]
+		],
+		"level": "23"
 	},
 	{
 		"name": "Ancient's Scripture - Tal Ort",
@@ -2089,6 +2093,7 @@
 			"Heal Stanima Plus 20%",
 			"Lightning Resist +[5-15]%",
 			"Poison Resist +[5-15]%"
-		]
+		],
+		"level": "21"
 	}
 ]
