@@ -2036,7 +2036,7 @@
 	{
 		"name": "Epiphany - Lo Ith Lo Ist",
 		"types": [
-			"Shields"
+			"Shield"
 		],
 		"option": [
 			"25% Chance to Cast Level 27 Static Field when Struck",
@@ -2085,7 +2085,7 @@
 	{
 		"name": "Ancient's Scripture - Tal Ort",
 		"types": [
-			"Shields"
+			"Shield"
 		],
 		"option": [
 			"[10-20]% Enhanced Damage",
